@@ -43,9 +43,8 @@ h3.third{
  background-color:mediumseagreen;
 }
 p.one,p.two,p.three{
- padding-right:2px;
- padding-left:2px;
- padding-bottom:2px;
+ left:5%;
+ width:90%;
 }
 div{
  margin-left: 0.5%;
